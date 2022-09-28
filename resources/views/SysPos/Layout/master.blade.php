@@ -1,0 +1,5 @@
+@include('SysPos.Layout.header')
+@include('SysPos.Layout.sidebar')
+@include('SysPos.Layout.navbar')
+@yield('content')
+@include('SysPos.Layout.footer')
